@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>jku.bac.amqp</groupId>
-	<artifactId>cart</artifactId>
+	<artifactId>AMQPCart</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cart</name>
+	<name>AMQPCart</name>
 	<description>Shopping Cart</description>
 
 	<properties>
